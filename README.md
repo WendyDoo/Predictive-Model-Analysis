@@ -18,6 +18,9 @@ Sales Forecasting: Predict future sales to help businesses plan and strategize m
 ## Technologies Used
 
 Python: The primary programming language used for data manipulation, visualization, and modeling.
+
 Pandas: For efficient data handling and transformation.
+
 Matplotlib and Seaborn: For creating compelling visualizations.
+
 Scikit-learn: For building and evaluating predictive models.
